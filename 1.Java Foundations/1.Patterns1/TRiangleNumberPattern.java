@@ -33,7 +33,7 @@ Sample Output 2:
 */
 
 import java.util.Scanner;
-public class TRiangleNumberPattern {
+public class TriangleNumberPattern {
 
 
 	public static void main(String[] args) {

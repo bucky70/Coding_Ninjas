@@ -34,7 +34,7 @@ Sample Output 2:
 
 import java.util.Scanner;
 
-public class TriabgularStarPattern {
+public class TriagularStarPattern {
 
 
 	public static void main(String[] args) {
