@@ -38,7 +38,7 @@ Sample Output 3:
 -2147483648
 8
 */
-public class Solution {  
+public class SecondLargestInArray {  
 
     public static int secondLargestElement(int[] arr) {
     	//Your code goes here

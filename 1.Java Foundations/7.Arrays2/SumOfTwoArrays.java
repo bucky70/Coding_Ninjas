@@ -80,7 +80,7 @@ Sample Output 2:
 //     }
 
 // }
-public class Solution {
+public class SumOfTwoArrays {
 
     public static void sumOfTwoArrays(int arr1[], int arr2[], int output[]) {
     int i =arr1.length-1;
