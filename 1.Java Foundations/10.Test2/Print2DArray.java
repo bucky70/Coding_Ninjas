@@ -23,7 +23,7 @@ Sample Output :
 4    5    6
 7    8    9
 */
-public class solution {
+public class Print2DArray {
 	public static void print2DArray(int input[][]) {
 		// Write your code here
        	int m=input.length;

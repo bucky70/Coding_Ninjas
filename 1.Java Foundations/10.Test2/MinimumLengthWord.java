@@ -18,7 +18,7 @@ Sample Output 2 :
 a
 */
 import java.util.HashMap;
-public class Solution {
+public class MinimumLengthWord {
 	
 	public static String minLengthWord(String input){
 		

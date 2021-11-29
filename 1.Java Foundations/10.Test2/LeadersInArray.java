@@ -19,7 +19,7 @@ Sample Input 2 :
 Sample Output 2 :
 17 6
 */
-public class Solution {
+public class LeadersInArray {
 
 	public static void leaders(int[] input) {
 		/* Your class should be named Solution 
